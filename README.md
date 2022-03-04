@@ -1,5 +1,6 @@
 # Barber-Shop
 Created a single page website using HMTL,CSS. Used advanced css topics like grid. The designing of the website give a very good UX.
+Some images are shown below.
 
 IMAGE-1
 
